@@ -1,4 +1,12 @@
+GeoFIAS - service for geocoding administrative addresses of the region
+
+
+
+
 # fias2postgresql
+
+
+
 
 Импорт ФИАС (http://fias.nalog.ru) в PostgreSQL.
 
